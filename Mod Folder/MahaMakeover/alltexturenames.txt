@@ -1,50 +1,65 @@
-[Message:Mahasmakeover] MaleHeadsWhite
-[Message:Mahasmakeover] HeadWhiteMaleA
-[Message:Mahasmakeover] HeadWhiteMaleB
-[Message:Mahasmakeover] HeadWhiteMaleC
-[Message:Mahasmakeover] SLPack does not contain a key for HeadWhiteMaleC
-[Message:Mahasmakeover] HeadWhiteMaleD
-[Message:Mahasmakeover] HeadWhiteMaleE
-[Message:Mahasmakeover] HeadWhiteMaleF
-[Message:Mahasmakeover] HeadWhiteMaleG
-[Message:Mahasmakeover] HeadWhiteMaleH
-[Message:Mahasmakeover] MaleHeadsAsian
-[Message:Mahasmakeover] SLPack does not contain a key for HeadAsianMaleB
-[Message:Mahasmakeover] MaleHeadsBlack
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackMaleA
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackMaleB
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackMaleC
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackMaleD
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackMaleE
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackMaleF
-[Message:Mahasmakeover] FemaleHeadsWhite
-[Message:Mahasmakeover] SLPack does not contain a key for HeadWhiteFemaleE
-[Message:Mahasmakeover] SLPack does not contain a key for HeadWhiteFemaleF
-[Message:Mahasmakeover] FemaleHeadsAsian
-[Message:Mahasmakeover] SLPack does not contain a key for HeadAsianFemaleC
-[Message:Mahasmakeover] SLPack does not contain a key for HeadAsianFemaleE
-[Message:Mahasmakeover] SLPack does not contain a key for HeadAsianFemaleF
-[Message:Mahasmakeover] FemaleHeadsBlack
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackFemaleA
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackFemaleB
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackFemaleC
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackFemaleD
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackFemaleE
-[Message:Mahasmakeover] SLPack does not contain a key for HeadBlackFemaleF
-[Message:Mahasmakeover] Bodies
-[Message:Mahasmakeover] Hairs
-[Message:Mahasmakeover] SLPack does not contain a key for Hair0_Bald
-[Message:Mahasmakeover] SLPack does not contain a key for Hair1_Short
-[Message:Mahasmakeover] SLPack does not contain a key for Hair2_Ponytail
-[Message:Mahasmakeover] SLPack does not contain a key for Hair3_Windblown
-[Message:Mahasmakeover] SLPack does not contain a key for Hair4_SweptBack
-[Message:Mahasmakeover] SLPack does not contain a key for Hair5_BraidedPonytailA
-[Message:Mahasmakeover] SLPack does not contain a key for Hair6_BraidedPonytailB
-[Message:Mahasmakeover] SLPack does not contain a key for Hair7_SweptBackBun
-[Message:Mahasmakeover] SLPack does not contain a key for Hair8_ShortCeasar
-[Message:Mahasmakeover] SLPack does not contain a key for Hair9_ShortSwept
-[Message:Mahasmakeover] SLPack does not contain a key for Hair10_ShortSwirl
-[Message:Mahasmakeover] SLPack does not contain a key for Hair11_DreadlocksShort
-[Message:Mahasmakeover] SLPack does not contain a key for Hair12_DreadlocksLong
-[Message:Mahasmakeover] SLPack does not contain a key for Hair13_Cornrows
-[Message:Mahasmakeover] SLPack does not contain a key for Hair14_Dome
+#MaleHeadsWhite
+HeadWhiteMaleA
+HeadWhiteMaleB
+HeadWhiteMaleC
+HeadWhiteMaleC
+HeadWhiteMaleD
+HeadWhiteMaleE
+HeadWhiteMaleF
+HeadWhiteMaleG
+HeadWhiteMaleH
+
+#MaleHeadsAsian
+HeadAsianMaleB
+
+#MaleHeadsBlack
+HeadBlackMaleA
+HeadBlackMaleB
+HeadBlackMaleC
+HeadBlackMaleD
+HeadBlackMaleE
+HeadBlackMaleF
+
+#FemaleHeadsWhite
+HeadWhiteFemaleE
+HeadWhiteFemaleF
+
+#FemaleHeadsAsian
+HeadAsianFemaleC
+HeadAsianFemaleE
+HeadAsianFemaleF
+
+#FemaleHeadsBlack
+HeadBlackFemaleA
+HeadBlackFemaleB
+HeadBlackFemaleC
+HeadBlackFemaleD
+HeadBlackFemaleE
+HeadBlackFemaleF
+
+#Female Skins
+mat_cha_femaleWhiteBodyA_skin
+mat_cha_femaleAsianBodyA_skin
+mat_cha_femaleBlackBodyA_skin
+
+#Male Skins
+mat_cha_maleWhiteBodyA_skin
+mat_cha_maleAsianBodyA_skin
+mat_cha_maleBlackBodyA_skin
+
+#Hairs
+Hair0_Bald
+Hair1_Short
+Hair2_Ponytail
+Hair3_Windblown
+Hair4_SweptBack
+Hair5_BraidedPonytailA
+Hair6_BraidedPonytailB
+Hair7_SweptBackBun
+Hair8_ShortCeasar
+Hair9_ShortSwept
+Hair10_ShortSwirl
+Hair11_DreadlocksShort
+Hair12_DreadlocksLong
+Hair13_Cornrows
+Hair14_Dome
