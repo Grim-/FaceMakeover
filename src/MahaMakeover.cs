@@ -212,12 +212,10 @@ namespace OutwardModTemplate
 
             Material.mainTexture = NewMainTexture;
 
-
-            //if (NormalMap != null)
-            //{
-            //    NormalMap.
-            //    Material.SetTexture("_NormTex", NormalMap);
-            //}
+            if (NormalMap != null)
+            {
+                Material.SetTexture("_NormTex", NormalMap);
+            }
 
         }
     }
