@@ -1,2 +1,1 @@
-# MahasMakeover
- 
+# Outward Mod Template
