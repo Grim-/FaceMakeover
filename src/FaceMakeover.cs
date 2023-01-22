@@ -10,18 +10,18 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace OutwardModTemplate
+namespace FaceMakeover
 {
     [BepInPlugin(GUID, NAME, VERSION)]
-    public class MyMod : BaseUnityPlugin
+    public class FaceMakeOver : BaseUnityPlugin
     {
         // Choose a GUID for your project. Change "myname" and "mymod".
-        public const string GUID = "maha.mahasmakeover";
+        public const string GUID = "maha.facemakover";
         // Choose a NAME for your project, generally the same as your Assembly Name.
-        public const string NAME = "Mahasmakeover";
+        public const string NAME = "FaceMakeover";
         // Increment the VERSION when you release a new version of your mod.
         public const string VERSION = "1.0.0";
-        public const string SLPackID = "mahasmakeover";
+        public const string SLPackID = "facemakeover";
 
         // For accessing your BepInEx Logger from outside of this class (MyMod.Log)
         internal static ManualLogSource Log;
@@ -40,7 +40,7 @@ namespace OutwardModTemplate
             EnableGlowingHair = Config.Bind(NAME, "EnableGlowingHair", true, "Enable Glowing Hair options? Requires restart");
             HairIntensity = Config.Bind(NAME, "HairIntensity", 7f, "How bright the glowing hair is, warning values over 10 might melt your eyes. Requires restart");
             CustomHairColor = Config.Bind(NAME, "CustomHairColor",  Color.yellow, "You can define a custom hair color here in hexadecimal color format. Requires restart");
-            CustomHairGlows = Config.Bind(NAME, "CustomHairGlows", true, "Should CustomHairColor use HairIntensity value? (Should it glow or not) Requires restart");
+            CustomHairGlows = Config.Bind(NAME, "CustomHairGlows", true, "Should CustomHairColor use HairIntensity value? (Should it glow? Brightness defined in HairIntensity setting.) Requires restart");
             SL.OnPacksLoaded += SL_OnPacksLoaded;
         }
 
